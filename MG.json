@@ -1,0 +1,23 @@
+{
+
+  "magisk": {
+
+    "version": "Telegram : @raxcheats",
+
+    "versionCode": "23000",
+
+    "link": "https://github.com/star-revan/MagiskFiX/raw/main/app-release.apk",
+
+    "note": "https://github.com/star-revan/MagiskFiX/raw/main/23000.md"
+
+  },
+
+  "stub": {
+
+    "versionCode": "21",
+
+    "link": "https://github.com/star-revan/MagiskFiX/raw/main/stub-release.apk"
+
+  }
+
+}
